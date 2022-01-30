@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
+}
+
+h1{
+    color: red;
+}
+
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    color:sandybrown;
+    font-weight: bold;
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    font-size: x-large;
+}
